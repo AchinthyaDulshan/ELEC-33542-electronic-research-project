@@ -1,6 +1,6 @@
 # 🦟 Ultrasonic Mosquito Repellent – Final Year Research Project
 
-**University of Kelaniya – Department of Electronics**
+**University of Kelaniya – Department of Electronics**\
 **Course Code: ELEC 33542 – Electronic Research Project**
 
 ## 📘 Project Overview
